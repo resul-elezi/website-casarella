@@ -33,6 +33,24 @@ main {
     min-height: 28.125rem;
 }
 
+article {
+    float: left;
+    width: 16.25rem;
+    padding: 1.875rem;
+    margin-block: 1.25rem;
+}
+
+#linkbilder img {
+    margin: .625rem;
+}
+
+.galerie-blid {
+    height: 25rem;
+    width: 15.3125rem;
+    margin: .3125rem;
+    float: left;
+}
+
 footer {
     float: left;
     padding: .625rem;
