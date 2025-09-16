@@ -4,3 +4,16 @@
     width: 56.875rem;
     height: auto;
 }
+
+#header {
+    float: left;
+    height: 15rem;
+    width: 56.875rem;
+}
+
+#header2 {
+    clear: left;
+    padding: .625rem;
+    height: 7.5rem;
+    width: 55.625rem;
+}
