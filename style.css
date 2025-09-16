@@ -17,3 +17,10 @@
     height: 7.5rem;
     width: 55.625rem;
 }
+
+footer {
+    float: left;
+    padding: .625rem;
+    height: 1.25rem;
+    width: 55.625rem;
+}
