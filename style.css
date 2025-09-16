@@ -18,6 +18,21 @@
     width: 55.625rem;
 }
 
+nav {
+    width: 55.625rem;
+    padding: .625rem;
+}
+
+main {
+    float: left;
+    padding: 1.25rem 1.875rem 1.875rem;
+    margin-top: 1.25rem;
+    margin-right: 1.25rem;
+    margin-bottom: 1.25rem;
+    width: 31.875rem;
+    min-height: 28.125rem;
+}
+
 footer {
     float: left;
     padding: .625rem;
