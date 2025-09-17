@@ -38,6 +38,7 @@ nav {
     width: 55.625rem;
     padding: .625rem;
     background: var(--nav-hintergrund);
+    border-radius: 0 0 1.25rem 1.25rem;
 }
 
 nav ul {
