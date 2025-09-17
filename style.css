@@ -98,6 +98,12 @@ main,
 article {
     border-radius: 1.25rem;
 }
+table {
+   border-collapse: collapse;
+   width: 100%;
+   table-layout: fixed;
+   text-align: center;
+}
 .impressum {
     font-size: .75rem;
 }
