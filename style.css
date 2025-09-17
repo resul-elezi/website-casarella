@@ -94,6 +94,10 @@ main {
     min-height: 28.125rem;
     background: var(--white);
 }
+main,
+article {
+    border-radius: 1.25rem;
+}
 .impressum {
     font-size: .75rem;
 }
