@@ -46,6 +46,7 @@ main {
     margin-bottom: 1.25rem;
     width: 31.875rem;
     min-height: 28.125rem;
+    background: var(--white);
 }
 
 article {
@@ -53,6 +54,7 @@ article {
     width: 16.25rem;
     padding: 1.875rem;
     margin-block: 1.25rem;
+    background: var(--white);
 }
 
 #linkbilder img {
