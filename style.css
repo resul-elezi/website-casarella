@@ -39,7 +39,11 @@ nav {
     padding: .625rem;
     background: var(--nav-hintergrund);
 }
-
+h1 {
+    font-size: 25pt;
+    font-weight: normal;
+    color: var(--nav-hintergrund);
+}
 main {
     float: left;
     padding: 1.25rem 1.875rem 1.875rem;
@@ -80,4 +84,7 @@ footer {
     height: 1.25rem;
     width: 55.625rem;
     background: var(--nav-hintergrund);
+    color: var(--hintergrund);
+    font-size: .75rem;
+    text-align: center;
 }
