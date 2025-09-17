@@ -39,6 +39,11 @@ nav {
     padding: .625rem;
     background: var(--nav-hintergrund);
 }
+nav ul {
+    list-style-type: none;
+    background: var(--nav-hintergrund);
+    margin: 0;
+}
 h1 {
     /* font-size: 25pt; */
     font-size: 2.08333rem;
