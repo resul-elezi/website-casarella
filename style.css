@@ -1,3 +1,16 @@
+:root {
+    --hintergrund: #f2d0e4;
+    --white: #fff;
+    --nav-hintergrund: #a67792;
+}
+
+body {
+    background-image: url(img/puenktchen-rosa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--hintergrund);
+}
+
 #wrap {
     margin: auto;
     padding: 0;
@@ -16,6 +29,7 @@
     padding: .625rem;
     height: 7.5rem;
     width: 55.625rem;
+    background: var(--white);
 }
 
 nav {
