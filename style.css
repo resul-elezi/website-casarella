@@ -70,6 +70,13 @@ main {
     font-size: .75rem;
     font-style: italic;
 }
+.schmucklink {
+    text-align: right;
+    color: var(--nav-hintergrund);
+}
+.schmucklink a {
+    /* color: var(--nav-hintergrund); */
+}
 article {
     float: left;
     width: 16.25rem;
