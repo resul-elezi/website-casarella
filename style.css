@@ -66,6 +66,10 @@ main {
 #spass {
     font-weight: bold;
 }
+.endpreise {
+    font-size: .75rem;
+    font-style: italic;
+}
 article {
     float: left;
     width: 16.25rem;
