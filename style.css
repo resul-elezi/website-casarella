@@ -40,7 +40,8 @@ nav {
     background: var(--nav-hintergrund);
 }
 h1 {
-    font-size: 25pt;
+    /* font-size: 25pt; */
+    font-size: 2.08333rem;
     font-weight: normal;
     color: var(--nav-hintergrund);
 }
