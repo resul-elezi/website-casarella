@@ -45,6 +45,11 @@ h1 {
     font-weight: normal;
     color: var(--nav-hintergrund);
 }
+h2 {
+    font-size: 15pt;
+    font-weight: normal;
+    color: var(--nav-hintergrund);
+}
 main {
     float: left;
     padding: 1.25rem 1.875rem 1.875rem;
@@ -54,6 +59,9 @@ main {
     width: 31.875rem;
     min-height: 28.125rem;
     background: var(--white);
+}
+.impressum {
+    font-size: .75rem;
 }
 #spass {
     font-weight: bold;
@@ -67,7 +75,9 @@ article {
     font-size: .875rem;
     text-align: center;
 }
-
+.hinweise {
+    font-weight: bold;
+}
 #linkbilder img {
     margin: .625rem;
 }
