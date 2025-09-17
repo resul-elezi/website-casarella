@@ -8,7 +8,8 @@ body {
     background-image: url(img/puenktchen-rosa.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: var(--hintergrund);
+    background: var(--hintergrund);
+    line-height: normal;
 }
 
 #wrap {
