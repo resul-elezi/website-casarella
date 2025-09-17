@@ -73,4 +73,5 @@ footer {
     padding: .625rem;
     height: 1.25rem;
     width: 55.625rem;
+    background: var(--nav-hintergrund);
 }
