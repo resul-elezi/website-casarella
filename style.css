@@ -50,7 +50,9 @@ main {
     min-height: 28.125rem;
     background: var(--white);
 }
-
+#spass {
+    font-weight: bold;
+}
 article {
     float: left;
     width: 16.25rem;
