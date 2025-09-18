@@ -189,3 +189,6 @@ footer {
     text-align: center;
     border-radius: 1.25rem 1.25rem 0 0;
 }
+* {
+    box-sizing: content-box;
+}
