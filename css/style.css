@@ -37,6 +37,11 @@ body {
     transition: opacity 1s ease-in-out;
 }
 
+#header img.active {
+    opacity: 1;
+    z-index: 1;
+}
+
 #header2 {
     clear: left;
     padding: .625rem;
