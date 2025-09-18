@@ -5,8 +5,8 @@
 }
 
 body {
-    background-image: url(img/puenktchen-rosa.jpg);
     background-color: var(--hintergrund);
+    background-image: url(/img/puenktchen-rosa.jpg);
     line-height: normal;
 }
 
