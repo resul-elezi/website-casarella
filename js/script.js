@@ -8,6 +8,7 @@ function headerBildAustausch() {
     headerImg[index].classList.remove('active');
 
     index = (index + 1) % headerImg.length;
+    // index = index % headerImg.length;
 
     headerImg[index].classList.add('active');
 }
