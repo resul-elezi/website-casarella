@@ -2,4 +2,6 @@
 
 const headerImg = document.getElementById('header');
 
-function headerBildAustausch() {}
+function headerBildAustausch(headerImg, source) {
+    headerImg.src = source;
+}
