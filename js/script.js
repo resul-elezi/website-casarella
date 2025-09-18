@@ -1,12 +1,12 @@
 'use strict';
 
-const headerImg = document.getElementById('header');
-const headerImgSrc = ['/img/headerbild.png', '/img/headerbild02.jpg', '/img/headerbild03.jpg', '/img/headerbild04.jpg'];
+const headerImg = document.querySelectorAll('#header img');
+
+let index = 0;
+
+function headerBildAustausch() {}
 
 
-
-
-// let index = 0;
 
 // function headerBildAustausch() {
 //     headerImg.src = headerImgSrc[index];
